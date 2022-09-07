@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464252650274",
+    "project_id": "orisha-chat-1413b",
+    "storage_bucket": "orisha-chat-1413b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464252650274:android:42396ea96a1dfb84bc9b7b",
+        "android_client_info": {
+          "package_name": "com.example.instaclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464252650274-if26q75uo5b3j4tk7u6nvn69dqqqctnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtAkB9P29bfDh6j1FrPjnEyPBxEbi8_kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464252650274-if26q75uo5b3j4tk7u6nvn69dqqqctnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

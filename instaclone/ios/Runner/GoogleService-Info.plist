@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>464252650274-jquq5t4lect3nhsdt8dr5925bf4ebdbr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.464252650274-jquq5t4lect3nhsdt8dr5925bf4ebdbr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBgmrg8MVug9dBu5ZLVKwT6Vk8RV7qOWZg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>464252650274</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.instaclone</string>
+	<key>PROJECT_ID</key>
+	<string>orisha-chat-1413b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>orisha-chat-1413b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:464252650274:ios:055ce414ef6df328bc9b7b</string>
+</dict>
+</plist>
